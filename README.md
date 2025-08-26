@@ -12,7 +12,7 @@
 - **Location:** Steinman Hall, C-51 (Cellar Level)
 - **Duration:** 14 weeks (28 lectures)
 - **Modality:** In-person, workshop-style sessions
-- **Platform:** JupyterHub on AWS (http://52.202.195.38)
+- **Platform:** JupyterHub on AWS (http://3.90.20.177/)
 
 ### Instructor Information
 - **Instructor:** Jacek Dmochowski, PhD
@@ -169,7 +169,7 @@ Guided final project development.
 - Email response within 48 hours on weekdays
 
 ### Resources & Support
-- **JupyterHub:** http://52.202.195.38
+- **JupyterHub:** http://3.90.20.177/
 - **Course Repository:** https://github.com/BME-i9400/BME-i9400
 - **Python Documentation:** https://docs.python.org/3.11/
 - **PyTorch Tutorials:** https://pytorch.org/tutorials/

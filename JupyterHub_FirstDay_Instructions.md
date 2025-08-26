@@ -4,7 +4,7 @@
 
 ### Step 1: Access JupyterHub
 Open your web browser and go to:
-## **http://52.202.195.38**
+## **http://3.90.20.177/**
 
 ### Step 2: Find Your Username
 Your username has been created based on your first name. Find yours below:
@@ -66,4 +66,4 @@ To work on a notebook:
 - Password must be at least 7 characters and different from username
 
 ---
-*Server URL for reference: http://52.202.195.38*
+*Server URL for reference: http://3.90.20.177/*
