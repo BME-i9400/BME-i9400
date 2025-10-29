@@ -6,7 +6,7 @@ This curated list of online readings and tutorials complements the material cove
 
 📘 Probability & Bayes’ Rule
 	1.	Conditional Probability and Bayes’ Rule (LibreTexts)
-https://stats.libretexts.org/Courses/Saint_Mary%27s_College_Notre_Dame/MATH_345__-Probability(Kuter)/2%3A_Computing_Probabilities/2.2%3A_Conditional_Probability_and_Bayes%27_Rule
+https://stats.libretexts.org/Courses/Saint_Mary's_College_Notre_Dame/MATH_345__-_Probability_(Kuter)/2%3A_Computing_Probabilities/2.2%3A_Conditional_Probability_and_Bayes'_Rule
 Formal treatment of conditional probability and Bayes’ theorem.
 	2.	An Intuitive (and Short) Explanation of Bayes’ Theorem – BetterExplained
 https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/
